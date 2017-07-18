@@ -1,0 +1,42 @@
+algorithm = GAssist
+inputData = "../datasets/pima-1/pima-1-10-7tra.dat" "../datasets/pima-1/pima-1-10-7tra.dat" "../datasets/pima-1/pima-1-10-7tst.dat" 
+outputData = "../results/GAssist-ADI-C.pima-1/result6s0.tra" "../results/GAssist-ADI-C.pima-1/result6s0.tst" "../results/GAssist-ADI-C.pima-1/result6s0e0.txt"  
+
+seed = 1286082570
+hierarchicalSelectionThreshold = 0
+iterationRuleDeletion = 5
+iterationHierarchicalSelection = 24
+ruleDeletionMinRules = 12
+sizePenaltyMinRules = 4
+numIterations = 5000
+initialNumberOfRules = 20
+popSize = 200
+probCrossover = 0.6
+probMutationInd = 0.6
+probOne = 0.9
+tournamentSize = 3
+numStrata = 1
+discretizer1 = UniformWidth_4
+discretizer2 = UniformWidth_5
+discretizer3 = UniformWidth_6
+discretizer4 = UniformWidth_7
+discretizer5 = UniformWidth_8
+discretizer6 = UniformWidth_10
+discretizer7 = UniformWidth_15
+discretizer8 = UniformWidth_20
+discretizer9 = UniformWidth_25
+discretizer10 = Disabled
+maxIntervals = 5
+probSplit = 0.05
+probMerge = 0.05
+probReinitializeBegin = 0.03
+probReinitializeEnd = 0
+adiKR = true
+useMDL = true
+iterationMDL = 25
+initialTheoryLengthRatio = 0.075
+weightRelaxFactor = 0.90
+defaultClass = major
+initMethod = cwInit
+
+
