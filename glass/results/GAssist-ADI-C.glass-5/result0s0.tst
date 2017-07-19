@@ -12,22 +12,22 @@
 @inputs RI, Na, Mg, Al, Si, K, Ca, Ba, Fe
 @outputs typeGlass
 1 1
-1 3
 1 1
 1 1
 1 1
-1 2
+1 1
+1 1
 1 1
 2 2
+2 1
 2 2
-2 5
-2 2
+2 1
 2 1
 2 2
 2 2
 3 2
 3 2
-6 5
+6 6
 7 7
 7 7
 7 7

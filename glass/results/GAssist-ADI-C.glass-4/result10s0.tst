@@ -11,7 +11,7 @@
 @attribute typeGlass {1, 2, 3, 4, 5, 6, 7}
 @inputs RI, Na, Mg, Al, Si, K, Ca, Ba, Fe
 @outputs typeGlass
-1 1
+1 2
 1 1
 1 1
 1 1

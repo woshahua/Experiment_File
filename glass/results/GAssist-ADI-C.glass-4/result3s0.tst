@@ -11,25 +11,25 @@
 @attribute typeGlass {1, 2, 3, 4, 5, 6, 7}
 @inputs RI, Na, Mg, Al, Si, K, Ca, Ba, Fe
 @outputs typeGlass
+1 2
 1 1
 1 1
 1 1
 1 1
 1 1
 1 1
-1 1
-2 1
-2 1
-2 1
-2 1
 2 2
-2 1
-2 1
+2 2
+2 3
+2 2
+2 2
+2 2
+2 2
 3 1
 5 5
 5 5
 6 6
 7 7
-7 6
+7 7
 2 1
-7 2
+7 6

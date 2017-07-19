@@ -10,11 +10,11 @@
 @attribute Class {tested_negative, tested_positive}
 @inputs Preg, Plas, Pres, Skin, Insu, Mass, Pedi, Age
 @outputs Class
+tested_positive tested_positive
+tested_positive tested_positive
+tested_positive tested_positive
+tested_positive tested_positive
 tested_positive tested_negative
-tested_positive tested_positive
-tested_positive tested_positive
-tested_positive tested_positive
-tested_positive tested_positive
 tested_positive tested_positive
 tested_negative tested_negative
 tested_negative tested_negative
@@ -42,15 +42,15 @@ tested_positive tested_positive
 tested_negative tested_negative
 tested_negative tested_negative
 tested_negative tested_positive
-tested_negative tested_negative
+tested_negative tested_positive
 tested_positive tested_negative
-tested_positive tested_positive
+tested_positive tested_negative
 tested_negative tested_negative
 tested_negative tested_negative
 tested_negative tested_negative
 tested_negative tested_negative
 tested_negative tested_negative
-tested_negative tested_negative
+tested_negative tested_positive
 tested_positive tested_negative
 tested_positive tested_negative
 tested_negative tested_negative
@@ -68,10 +68,10 @@ tested_negative tested_negative
 tested_negative tested_negative
 tested_negative tested_negative
 tested_negative tested_negative
-tested_negative tested_negative
+tested_negative tested_positive
 tested_negative tested_positive
 tested_positive tested_positive
-tested_positive tested_negative
+tested_positive tested_positive
 tested_positive tested_negative
 tested_negative tested_negative
 tested_negative tested_negative
@@ -85,5 +85,5 @@ tested_negative tested_negative
 tested_positive tested_positive
 tested_positive tested_negative
 tested_negative tested_negative
-tested_negative tested_negative
+tested_negative tested_positive
 tested_negative tested_negative
