@@ -35,8 +35,9 @@ adiKR = true
 useMDL = true
 iterationMDL = 25
 initialTheoryLengthRatio = 0.075
-weightRelaxFactor = 0.90
+weightRelaxFactor = 1.0
 defaultClass = major
 initMethod = cwInit
+
 
 
