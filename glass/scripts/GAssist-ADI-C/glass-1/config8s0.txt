@@ -15,7 +15,7 @@ probCrossover = 0.6
 probMutationInd = 0.6
 probOne = 0.9
 tournamentSize = 3
-numStrata = 10
+numStrata = 1
 discretizer1 = UniformWidth_4
 discretizer2 = UniformWidth_5
 discretizer3 = UniformWidth_6
@@ -38,6 +38,7 @@ initialTheoryLengthRatio = 0.075
 weightRelaxFactor = 1.0
 defaultClass = major
 initMethod = cwInit
+
 
 
 
