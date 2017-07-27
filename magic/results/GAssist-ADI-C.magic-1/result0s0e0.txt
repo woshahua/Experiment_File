@@ -1,0 +1,2671 @@
+Cut point 0 of attribute 0 : 70.2622
+Cut point 1 of attribute 0 : 136.2409
+Cut point 2 of attribute 0 : 202.2196
+Cut point 3 of attribute 0 : 268.1983
+Number of cut points of attribute 0 : 4
+Cut point 0 of attribute 1 : 51.2764
+Cut point 1 of attribute 1 : 102.5528
+Cut point 2 of attribute 1 : 153.82920000000001
+Cut point 3 of attribute 1 : 205.1056
+Number of cut points of attribute 1 : 4
+Cut point 0 of attribute 2 : 2.6177
+Cut point 1 of attribute 2 : 3.2941000000000003
+Cut point 2 of attribute 2 : 3.9705000000000004
+Cut point 3 of attribute 2 : 4.6469000000000005
+Number of cut points of attribute 2 : 4
+Cut point 0 of attribute 3 : 0.18908
+Cut point 1 of attribute 3 : 0.36506
+Cut point 2 of attribute 3 : 0.54104
+Cut point 3 of attribute 3 : 0.71702
+Number of cut points of attribute 3 : 4
+Cut point 0 of attribute 4 : 0.13528
+Cut point 1 of attribute 4 : 0.27026000000000006
+Cut point 2 of attribute 4 : 0.40524000000000004
+Cut point 3 of attribute 4 : 0.54022
+Number of cut points of attribute 4 : 4
+Cut point 0 of attribute 5 : -251.28473999999997
+Cut point 1 of attribute 5 : -44.65337999999997
+Cut point 2 of attribute 5 : 161.97798000000003
+Cut point 3 of attribute 5 : 368.60934000000003
+Number of cut points of attribute 5 : 4
+Cut point 0 of attribute 6 : -217.75979999999998
+Cut point 1 of attribute 6 : -103.73959999999998
+Cut point 2 of attribute 6 : 10.280600000000021
+Cut point 3 of attribute 6 : 124.30080000000002
+Number of cut points of attribute 6 : 4
+Cut point 0 of attribute 7 : -128.74556
+Cut point 1 of attribute 7 : -51.59642000000001
+Cut point 2 of attribute 7 : 25.552719999999994
+Cut point 3 of attribute 7 : 102.70186
+Number of cut points of attribute 7 : 4
+Cut point 0 of attribute 8 : 18.0
+Cut point 1 of attribute 8 : 36.0
+Cut point 2 of attribute 8 : 54.0
+Cut point 3 of attribute 8 : 72.0
+Number of cut points of attribute 8 : 4
+Cut point 0 of attribute 9 : 100.13828
+Cut point 1 of attribute 9 : 198.99396
+Cut point 2 of attribute 9 : 297.84963999999997
+Cut point 3 of attribute 9 : 396.70532
+Number of cut points of attribute 9 : 4
+Cut point 0 of attribute 0 : 59.26575
+Cut point 1 of attribute 0 : 114.24799999999999
+Cut point 2 of attribute 0 : 169.23024999999998
+Cut point 3 of attribute 0 : 224.21249999999998
+Cut point 4 of attribute 0 : 279.19475
+Number of cut points of attribute 0 : 5
+Cut point 0 of attribute 1 : 42.730333333333334
+Cut point 1 of attribute 1 : 85.46066666666667
+Cut point 2 of attribute 1 : 128.191
+Cut point 3 of attribute 1 : 170.92133333333334
+Cut point 4 of attribute 1 : 213.65166666666667
+Number of cut points of attribute 1 : 5
+Cut point 0 of attribute 2 : 2.504966666666667
+Cut point 1 of attribute 2 : 3.0686333333333335
+Cut point 2 of attribute 2 : 3.6323000000000003
+Cut point 3 of attribute 2 : 4.195966666666667
+Cut point 4 of attribute 2 : 4.759633333333333
+Number of cut points of attribute 2 : 5
+Cut point 0 of attribute 3 : 0.15975
+Cut point 1 of attribute 3 : 0.3064
+Cut point 2 of attribute 3 : 0.45305
+Cut point 3 of attribute 3 : 0.5997
+Cut point 4 of attribute 3 : 0.7463500000000001
+Number of cut points of attribute 3 : 5
+Cut point 0 of attribute 4 : 0.11278333333333333
+Cut point 1 of attribute 4 : 0.22526666666666667
+Cut point 2 of attribute 4 : 0.33775
+Cut point 3 of attribute 4 : 0.4502333333333333
+Cut point 4 of attribute 4 : 0.5627166666666666
+Number of cut points of attribute 4 : 5
+Cut point 0 of attribute 5 : -285.7233
+Cut point 1 of attribute 5 : -113.53049999999999
+Cut point 2 of attribute 5 : 58.662300000000016
+Cut point 3 of attribute 5 : 230.85510000000002
+Cut point 4 of attribute 5 : 403.0479
+Number of cut points of attribute 5 : 5
+Cut point 0 of attribute 6 : -236.76316666666662
+Cut point 1 of attribute 6 : -141.74633333333327
+Cut point 2 of attribute 6 : -46.72949999999993
+Cut point 3 of attribute 6 : 48.28733333333341
+Cut point 4 of attribute 6 : 143.30416666666673
+Number of cut points of attribute 6 : 5
+Cut point 0 of attribute 7 : -141.60375
+Cut point 1 of attribute 7 : -77.3128
+Cut point 2 of attribute 7 : -13.02185
+Cut point 3 of attribute 7 : 51.269099999999995
+Cut point 4 of attribute 7 : 115.56004999999999
+Number of cut points of attribute 7 : 5
+Cut point 0 of attribute 8 : 15.0
+Cut point 1 of attribute 8 : 30.0
+Cut point 2 of attribute 8 : 45.0
+Cut point 3 of attribute 8 : 60.0
+Cut point 4 of attribute 8 : 75.0
+Number of cut points of attribute 8 : 5
+Cut point 0 of attribute 9 : 83.66233333333334
+Cut point 1 of attribute 9 : 166.04206666666667
+Cut point 2 of attribute 9 : 248.42180000000002
+Cut point 3 of attribute 9 : 330.80153333333334
+Cut point 4 of attribute 9 : 413.18126666666666
+Number of cut points of attribute 9 : 5
+Cut point 0 of attribute 0 : 51.41114285714286
+Cut point 1 of attribute 0 : 98.53878571428572
+Cut point 2 of attribute 0 : 145.66642857142858
+Cut point 3 of attribute 0 : 192.79407142857144
+Cut point 4 of attribute 0 : 239.9217142857143
+Cut point 5 of attribute 0 : 287.04935714285716
+Number of cut points of attribute 0 : 6
+Cut point 0 of attribute 1 : 36.626
+Cut point 1 of attribute 1 : 73.252
+Cut point 2 of attribute 1 : 109.87799999999999
+Cut point 3 of attribute 1 : 146.504
+Cut point 4 of attribute 1 : 183.13
+Cut point 5 of attribute 1 : 219.756
+Number of cut points of attribute 1 : 6
+Cut point 0 of attribute 2 : 2.424442857142857
+Cut point 1 of attribute 2 : 2.907585714285714
+Cut point 2 of attribute 2 : 3.3907285714285713
+Cut point 3 of attribute 2 : 3.8738714285714284
+Cut point 4 of attribute 2 : 4.3570142857142855
+Cut point 5 of attribute 2 : 4.840157142857143
+Number of cut points of attribute 2 : 6
+Cut point 0 of attribute 3 : 0.1388
+Cut point 1 of attribute 3 : 0.2645
+Cut point 2 of attribute 3 : 0.3902
+Cut point 3 of attribute 3 : 0.5159
+Cut point 4 of attribute 3 : 0.6416000000000001
+Cut point 5 of attribute 3 : 0.7673000000000001
+Number of cut points of attribute 3 : 6
+Cut point 0 of attribute 4 : 0.09671428571428571
+Cut point 1 of attribute 4 : 0.19312857142857143
+Cut point 2 of attribute 4 : 0.28954285714285716
+Cut point 3 of attribute 4 : 0.3859571428571429
+Cut point 4 of attribute 4 : 0.4823714285714286
+Cut point 5 of attribute 4 : 0.5787857142857143
+Number of cut points of attribute 4 : 6
+Cut point 0 of attribute 5 : -310.3222714285714
+Cut point 1 of attribute 5 : -162.72844285714285
+Cut point 2 of attribute 5 : -15.134614285714292
+Cut point 3 of attribute 5 : 132.45921428571427
+Cut point 4 of attribute 5 : 280.0530428571428
+Cut point 5 of attribute 5 : 427.6468714285714
+Number of cut points of attribute 5 : 6
+Cut point 0 of attribute 6 : -250.337
+Cut point 1 of attribute 6 : -168.894
+Cut point 2 of attribute 6 : -87.45100000000001
+Cut point 3 of attribute 6 : -6.00800000000001
+Cut point 4 of attribute 6 : 75.43499999999999
+Cut point 5 of attribute 6 : 156.878
+Number of cut points of attribute 6 : 6
+Cut point 0 of attribute 7 : -150.78817142857145
+Cut point 1 of attribute 7 : -95.68164285714288
+Cut point 2 of attribute 7 : -40.57511428571431
+Cut point 3 of attribute 7 : 14.531414285714263
+Cut point 4 of attribute 7 : 69.63794285714283
+Cut point 5 of attribute 7 : 124.7444714285714
+Number of cut points of attribute 7 : 6
+Cut point 0 of attribute 8 : 12.857142857142858
+Cut point 1 of attribute 8 : 25.714285714285715
+Cut point 2 of attribute 8 : 38.57142857142857
+Cut point 3 of attribute 8 : 51.42857142857143
+Cut point 4 of attribute 8 : 64.28571428571429
+Cut point 5 of attribute 8 : 77.14285714285715
+Number of cut points of attribute 8 : 6
+Cut point 0 of attribute 9 : 71.8938
+Cut point 1 of attribute 9 : 142.505
+Cut point 2 of attribute 9 : 213.1162
+Cut point 3 of attribute 9 : 283.7274
+Cut point 4 of attribute 9 : 354.3386
+Cut point 5 of attribute 9 : 424.9498
+Number of cut points of attribute 9 : 6
+Cut point 0 of attribute 0 : 45.520187500000006
+Cut point 1 of attribute 0 : 86.75687500000001
+Cut point 2 of attribute 0 : 127.99356250000001
+Cut point 3 of attribute 0 : 169.23025
+Cut point 4 of attribute 0 : 210.46693750000003
+Cut point 5 of attribute 0 : 251.70362500000005
+Cut point 6 of attribute 0 : 292.94031250000006
+Number of cut points of attribute 0 : 7
+Cut point 0 of attribute 1 : 32.04775
+Cut point 1 of attribute 1 : 64.0955
+Cut point 2 of attribute 1 : 96.14325
+Cut point 3 of attribute 1 : 128.191
+Cut point 4 of attribute 1 : 160.23875
+Cut point 5 of attribute 1 : 192.28650000000002
+Cut point 6 of attribute 1 : 224.33425000000003
+Number of cut points of attribute 1 : 7
+Cut point 0 of attribute 2 : 2.3640499999999998
+Cut point 1 of attribute 2 : 2.7867999999999995
+Cut point 2 of attribute 2 : 3.2095499999999992
+Cut point 3 of attribute 2 : 3.632299999999999
+Cut point 4 of attribute 2 : 4.055049999999999
+Cut point 5 of attribute 2 : 4.4777999999999984
+Cut point 6 of attribute 2 : 4.900549999999998
+Number of cut points of attribute 2 : 7
+Cut point 0 of attribute 3 : 0.1230875
+Cut point 1 of attribute 3 : 0.233075
+Cut point 2 of attribute 3 : 0.3430625
+Cut point 3 of attribute 3 : 0.45305
+Cut point 4 of attribute 3 : 0.5630375
+Cut point 5 of attribute 3 : 0.673025
+Cut point 6 of attribute 3 : 0.7830125
+Number of cut points of attribute 3 : 7
+Cut point 0 of attribute 4 : 0.0846625
+Cut point 1 of attribute 4 : 0.169025
+Cut point 2 of attribute 4 : 0.2533875
+Cut point 3 of attribute 4 : 0.33775
+Cut point 4 of attribute 4 : 0.4221125
+Cut point 5 of attribute 4 : 0.506475
+Cut point 6 of attribute 4 : 0.5908375
+Number of cut points of attribute 4 : 7
+Cut point 0 of attribute 5 : -328.77149999999995
+Cut point 1 of attribute 5 : -199.62689999999995
+Cut point 2 of attribute 5 : -70.48229999999995
+Cut point 3 of attribute 5 : 58.662300000000045
+Cut point 4 of attribute 5 : 187.80690000000004
+Cut point 5 of attribute 5 : 316.9515
+Cut point 6 of attribute 5 : 446.0961
+Number of cut points of attribute 5 : 7
+Cut point 0 of attribute 6 : -260.51737499999996
+Cut point 1 of attribute 6 : -189.25474999999994
+Cut point 2 of attribute 6 : -117.99212499999994
+Cut point 3 of attribute 6 : -46.729499999999945
+Cut point 4 of attribute 6 : 24.533125000000055
+Cut point 5 of attribute 6 : 95.79575000000006
+Cut point 6 of attribute 6 : 167.05837500000007
+Number of cut points of attribute 6 : 7
+Cut point 0 of attribute 7 : -157.6764875
+Cut point 1 of attribute 7 : -109.45827500000001
+Cut point 2 of attribute 7 : -61.240062500000015
+Cut point 3 of attribute 7 : -13.021850000000015
+Cut point 4 of attribute 7 : 35.196362499999985
+Cut point 5 of attribute 7 : 83.41457499999999
+Cut point 6 of attribute 7 : 131.63278749999998
+Number of cut points of attribute 7 : 7
+Cut point 0 of attribute 8 : 11.25
+Cut point 1 of attribute 8 : 22.5
+Cut point 2 of attribute 8 : 33.75
+Cut point 3 of attribute 8 : 45.0
+Cut point 4 of attribute 8 : 56.25
+Cut point 5 of attribute 8 : 67.5
+Cut point 6 of attribute 8 : 78.75
+Number of cut points of attribute 8 : 7
+Cut point 0 of attribute 9 : 63.0674
+Cut point 1 of attribute 9 : 124.8522
+Cut point 2 of attribute 9 : 186.637
+Cut point 3 of attribute 9 : 248.4218
+Cut point 4 of attribute 9 : 310.2066
+Cut point 5 of attribute 9 : 371.9914
+Cut point 6 of attribute 9 : 433.7762
+Number of cut points of attribute 9 : 7
+Cut point 0 of attribute 0 : 40.93833333333333
+Cut point 1 of attribute 0 : 77.59316666666666
+Cut point 2 of attribute 0 : 114.24799999999999
+Cut point 3 of attribute 0 : 150.90283333333332
+Cut point 4 of attribute 0 : 187.55766666666665
+Cut point 5 of attribute 0 : 224.21249999999998
+Cut point 6 of attribute 0 : 260.8673333333333
+Cut point 7 of attribute 0 : 297.52216666666664
+Number of cut points of attribute 0 : 8
+Cut point 0 of attribute 1 : 28.48688888888889
+Cut point 1 of attribute 1 : 56.97377777777778
+Cut point 2 of attribute 1 : 85.46066666666667
+Cut point 3 of attribute 1 : 113.94755555555555
+Cut point 4 of attribute 1 : 142.43444444444444
+Cut point 5 of attribute 1 : 170.92133333333334
+Cut point 6 of attribute 1 : 199.40822222222224
+Cut point 7 of attribute 1 : 227.89511111111113
+Number of cut points of attribute 1 : 8
+Cut point 0 of attribute 2 : 2.3170777777777776
+Cut point 1 of attribute 2 : 2.692855555555555
+Cut point 2 of attribute 2 : 3.0686333333333327
+Cut point 3 of attribute 2 : 3.44441111111111
+Cut point 4 of attribute 2 : 3.8201888888888877
+Cut point 5 of attribute 2 : 4.195966666666665
+Cut point 6 of attribute 2 : 4.571744444444443
+Cut point 7 of attribute 2 : 4.94752222222222
+Number of cut points of attribute 2 : 8
+Cut point 0 of attribute 3 : 0.11086666666666667
+Cut point 1 of attribute 3 : 0.20863333333333334
+Cut point 2 of attribute 3 : 0.3064
+Cut point 3 of attribute 3 : 0.4041666666666667
+Cut point 4 of attribute 3 : 0.5019333333333333
+Cut point 5 of attribute 3 : 0.5997
+Cut point 6 of attribute 3 : 0.6974666666666667
+Cut point 7 of attribute 3 : 0.7952333333333333
+Number of cut points of attribute 3 : 8
+Cut point 0 of attribute 4 : 0.07528888888888889
+Cut point 1 of attribute 4 : 0.1502777777777778
+Cut point 2 of attribute 4 : 0.22526666666666667
+Cut point 3 of attribute 4 : 0.30025555555555555
+Cut point 4 of attribute 4 : 0.37524444444444444
+Cut point 5 of attribute 4 : 0.4502333333333333
+Cut point 6 of attribute 4 : 0.5252222222222223
+Cut point 7 of attribute 4 : 0.6002111111111111
+Number of cut points of attribute 4 : 8
+Cut point 0 of attribute 5 : -343.1209
+Cut point 1 of attribute 5 : -228.3257
+Cut point 2 of attribute 5 : -113.53050000000002
+Cut point 3 of attribute 5 : 1.2646999999999764
+Cut point 4 of attribute 5 : 116.05989999999997
+Cut point 5 of attribute 5 : 230.85509999999996
+Cut point 6 of attribute 5 : 345.65029999999996
+Cut point 7 of attribute 5 : 460.4454999999999
+Number of cut points of attribute 5 : 8
+Cut point 0 of attribute 6 : -268.43544444444444
+Cut point 1 of attribute 6 : -205.09088888888888
+Cut point 2 of attribute 6 : -141.74633333333333
+Cut point 3 of attribute 6 : -78.40177777777777
+Cut point 4 of attribute 6 : -15.057222222222208
+Cut point 5 of attribute 6 : 48.28733333333335
+Cut point 6 of attribute 6 : 111.63188888888891
+Cut point 7 of attribute 6 : 174.97644444444447
+Number of cut points of attribute 6 : 8
+Cut point 0 of attribute 7 : -163.03406666666666
+Cut point 1 of attribute 7 : -120.17343333333332
+Cut point 2 of attribute 7 : -77.31279999999998
+Cut point 3 of attribute 7 : -34.45216666666665
+Cut point 4 of attribute 7 : 8.408466666666683
+Cut point 5 of attribute 7 : 51.269100000000016
+Cut point 6 of attribute 7 : 94.12973333333335
+Cut point 7 of attribute 7 : 136.9903666666667
+Number of cut points of attribute 7 : 8
+Cut point 0 of attribute 8 : 10.0
+Cut point 1 of attribute 8 : 20.0
+Cut point 2 of attribute 8 : 30.0
+Cut point 3 of attribute 8 : 40.0
+Cut point 4 of attribute 8 : 50.0
+Cut point 5 of attribute 8 : 60.0
+Cut point 6 of attribute 8 : 70.0
+Cut point 7 of attribute 8 : 80.0
+Number of cut points of attribute 8 : 8
+Cut point 0 of attribute 9 : 56.202422222222225
+Cut point 1 of attribute 9 : 111.12224444444445
+Cut point 2 of attribute 9 : 166.04206666666667
+Cut point 3 of attribute 9 : 220.9618888888889
+Cut point 4 of attribute 9 : 275.88171111111114
+Cut point 5 of attribute 9 : 330.8015333333334
+Cut point 6 of attribute 9 : 385.72135555555565
+Cut point 7 of attribute 9 : 440.6411777777779
+Number of cut points of attribute 9 : 8
+Cut point 0 of attribute 0 : 34.273818181818186
+Cut point 1 of attribute 0 : 64.26413636363637
+Cut point 2 of attribute 0 : 94.25445454545455
+Cut point 3 of attribute 0 : 124.24477272727273
+Cut point 4 of attribute 0 : 154.2350909090909
+Cut point 5 of attribute 0 : 184.22540909090907
+Cut point 6 of attribute 0 : 214.21572727272724
+Cut point 7 of attribute 0 : 244.2060454545454
+Cut point 8 of attribute 0 : 274.19636363636357
+Cut point 9 of attribute 0 : 304.18668181818174
+Number of cut points of attribute 0 : 10
+Cut point 0 of attribute 1 : 23.307454545454547
+Cut point 1 of attribute 1 : 46.614909090909094
+Cut point 2 of attribute 1 : 69.92236363636364
+Cut point 3 of attribute 1 : 93.22981818181819
+Cut point 4 of attribute 1 : 116.53727272727274
+Cut point 5 of attribute 1 : 139.84472727272728
+Cut point 6 of attribute 1 : 163.15218181818182
+Cut point 7 of attribute 1 : 186.45963636363638
+Cut point 8 of attribute 1 : 209.76709090909094
+Cut point 9 of attribute 1 : 233.0745454545455
+Number of cut points of attribute 1 : 10
+Cut point 0 of attribute 2 : 2.2487545454545455
+Cut point 1 of attribute 2 : 2.556209090909091
+Cut point 2 of attribute 2 : 2.8636636363636363
+Cut point 3 of attribute 2 : 3.1711181818181817
+Cut point 4 of attribute 2 : 3.478572727272727
+Cut point 5 of attribute 2 : 3.7860272727272726
+Cut point 6 of attribute 2 : 4.093481818181818
+Cut point 7 of attribute 2 : 4.400936363636363
+Cut point 8 of attribute 2 : 4.708390909090909
+Cut point 9 of attribute 2 : 5.015845454545454
+Number of cut points of attribute 2 : 10
+Cut point 0 of attribute 3 : 0.0930909090909091
+Cut point 1 of attribute 3 : 0.1730818181818182
+Cut point 2 of attribute 3 : 0.2530727272727273
+Cut point 3 of attribute 3 : 0.3330636363636364
+Cut point 4 of attribute 3 : 0.4130545454545455
+Cut point 5 of attribute 3 : 0.4930454545454546
+Cut point 6 of attribute 3 : 0.5730363636363637
+Cut point 7 of attribute 3 : 0.6530272727272728
+Cut point 8 of attribute 3 : 0.7330181818181819
+Cut point 9 of attribute 3 : 0.813009090909091
+Number of cut points of attribute 3 : 10
+Cut point 0 of attribute 4 : 0.06165454545454546
+Cut point 1 of attribute 4 : 0.12300909090909093
+Cut point 2 of attribute 4 : 0.1843636363636364
+Cut point 3 of attribute 4 : 0.24571818181818186
+Cut point 4 of attribute 4 : 0.30707272727272733
+Cut point 5 of attribute 4 : 0.36842727272727277
+Cut point 6 of attribute 4 : 0.4297818181818182
+Cut point 7 of attribute 4 : 0.49113636363636365
+Cut point 8 of attribute 4 : 0.5524909090909091
+Cut point 9 of attribute 4 : 0.6138454545454546
+Number of cut points of attribute 4 : 10
+Cut point 0 of attribute 5 : -363.99275454545455
+Cut point 1 of attribute 5 : -270.06940909090906
+Cut point 2 of attribute 5 : -176.1460636363636
+Cut point 3 of attribute 5 : -82.22271818181815
+Cut point 4 of attribute 5 : 11.700627272727303
+Cut point 5 of attribute 5 : 105.62397272727276
+Cut point 6 of attribute 5 : 199.5473181818182
+Cut point 7 of attribute 5 : 293.47066363636367
+Cut point 8 of attribute 5 : 387.3940090909091
+Cut point 9 of attribute 5 : 481.3173545454546
+Number of cut points of attribute 5 : 10
+Cut point 0 of attribute 6 : -279.9526363636363
+Cut point 1 of attribute 6 : -228.1252727272727
+Cut point 2 of attribute 6 : -176.29790909090906
+Cut point 3 of attribute 6 : -124.47054545454543
+Cut point 4 of attribute 6 : -72.6431818181818
+Cut point 5 of attribute 6 : -20.815818181818166
+Cut point 6 of attribute 6 : 31.01154545454547
+Cut point 7 of attribute 6 : 82.83890909090911
+Cut point 8 of attribute 6 : 134.66627272727274
+Cut point 9 of attribute 6 : 186.49363636363637
+Number of cut points of attribute 6 : 10
+Cut point 0 of attribute 7 : -170.82690909090908
+Cut point 1 of attribute 7 : -135.75911818181817
+Cut point 2 of attribute 7 : -100.69132727272725
+Cut point 3 of attribute 7 : -65.62353636363633
+Cut point 4 of attribute 7 : -30.555745454545423
+Cut point 5 of attribute 7 : 4.512045454545486
+Cut point 6 of attribute 7 : 39.579836363636396
+Cut point 7 of attribute 7 : 74.6476272727273
+Cut point 8 of attribute 7 : 109.71541818181822
+Cut point 9 of attribute 7 : 144.78320909090914
+Number of cut points of attribute 7 : 10
+Cut point 0 of attribute 8 : 8.181818181818182
+Cut point 1 of attribute 8 : 16.363636363636363
+Cut point 2 of attribute 8 : 24.545454545454547
+Cut point 3 of attribute 8 : 32.72727272727273
+Cut point 4 of attribute 8 : 40.90909090909091
+Cut point 5 of attribute 8 : 49.090909090909086
+Cut point 6 of attribute 8 : 57.272727272727266
+Cut point 7 of attribute 8 : 65.45454545454545
+Cut point 8 of attribute 8 : 73.63636363636364
+Cut point 9 of attribute 8 : 81.81818181818183
+Number of cut points of attribute 8 : 10
+Cut point 0 of attribute 9 : 46.217
+Cut point 1 of attribute 9 : 91.1514
+Cut point 2 of attribute 9 : 136.0858
+Cut point 3 of attribute 9 : 181.0202
+Cut point 4 of attribute 9 : 225.95459999999997
+Cut point 5 of attribute 9 : 270.88899999999995
+Cut point 6 of attribute 9 : 315.82339999999994
+Cut point 7 of attribute 9 : 360.7577999999999
+Cut point 8 of attribute 9 : 405.6921999999999
+Cut point 9 of attribute 9 : 450.6265999999999
+Number of cut points of attribute 9 : 10
+Cut point 0 of attribute 0 : 24.90184375
+Cut point 1 of attribute 0 : 45.520187500000006
+Cut point 2 of attribute 0 : 66.13853125
+Cut point 3 of attribute 0 : 86.75687500000001
+Cut point 4 of attribute 0 : 107.37521875000002
+Cut point 5 of attribute 0 : 127.99356250000002
+Cut point 6 of attribute 0 : 148.61190625000003
+Cut point 7 of attribute 0 : 169.23025000000004
+Cut point 8 of attribute 0 : 189.84859375000005
+Cut point 9 of attribute 0 : 210.46693750000006
+Cut point 10 of attribute 0 : 231.08528125000007
+Cut point 11 of attribute 0 : 251.70362500000007
+Cut point 12 of attribute 0 : 272.32196875000005
+Cut point 13 of attribute 0 : 292.94031250000006
+Cut point 14 of attribute 0 : 313.55865625000007
+Number of cut points of attribute 0 : 15
+Cut point 0 of attribute 1 : 16.023875
+Cut point 1 of attribute 1 : 32.04775
+Cut point 2 of attribute 1 : 48.071625
+Cut point 3 of attribute 1 : 64.0955
+Cut point 4 of attribute 1 : 80.119375
+Cut point 5 of attribute 1 : 96.14325000000001
+Cut point 6 of attribute 1 : 112.16712500000001
+Cut point 7 of attribute 1 : 128.191
+Cut point 8 of attribute 1 : 144.214875
+Cut point 9 of attribute 1 : 160.23875
+Cut point 10 of attribute 1 : 176.262625
+Cut point 11 of attribute 1 : 192.28650000000002
+Cut point 12 of attribute 1 : 208.31037500000002
+Cut point 13 of attribute 1 : 224.33425000000003
+Cut point 14 of attribute 1 : 240.35812500000003
+Number of cut points of attribute 1 : 15
+Cut point 0 of attribute 2 : 2.152675
+Cut point 1 of attribute 2 : 2.3640499999999998
+Cut point 2 of attribute 2 : 2.5754249999999996
+Cut point 3 of attribute 2 : 2.7867999999999995
+Cut point 4 of attribute 2 : 2.9981749999999994
+Cut point 5 of attribute 2 : 3.2095499999999992
+Cut point 6 of attribute 2 : 3.420924999999999
+Cut point 7 of attribute 2 : 3.632299999999999
+Cut point 8 of attribute 2 : 3.843674999999999
+Cut point 9 of attribute 2 : 4.055049999999999
+Cut point 10 of attribute 2 : 4.266424999999999
+Cut point 11 of attribute 2 : 4.477799999999999
+Cut point 12 of attribute 2 : 4.689175
+Cut point 13 of attribute 2 : 4.90055
+Cut point 14 of attribute 2 : 5.111925
+Number of cut points of attribute 2 : 15
+Cut point 0 of attribute 3 : 0.06809375000000001
+Cut point 1 of attribute 3 : 0.12308750000000002
+Cut point 2 of attribute 3 : 0.17808125000000002
+Cut point 3 of attribute 3 : 0.23307500000000003
+Cut point 4 of attribute 3 : 0.28806875000000004
+Cut point 5 of attribute 3 : 0.34306250000000005
+Cut point 6 of attribute 3 : 0.39805625000000006
+Cut point 7 of attribute 3 : 0.45305000000000006
+Cut point 8 of attribute 3 : 0.50804375
+Cut point 9 of attribute 3 : 0.5630375
+Cut point 10 of attribute 3 : 0.6180312499999999
+Cut point 11 of attribute 3 : 0.6730249999999999
+Cut point 12 of attribute 3 : 0.7280187499999998
+Cut point 13 of attribute 3 : 0.7830124999999998
+Cut point 14 of attribute 3 : 0.8380062499999997
+Number of cut points of attribute 3 : 15
+Cut point 0 of attribute 4 : 0.042481250000000005
+Cut point 1 of attribute 4 : 0.0846625
+Cut point 2 of attribute 4 : 0.12684375
+Cut point 3 of attribute 4 : 0.169025
+Cut point 4 of attribute 4 : 0.21120625
+Cut point 5 of attribute 4 : 0.2533875
+Cut point 6 of attribute 4 : 0.29556875
+Cut point 7 of attribute 4 : 0.33775
+Cut point 8 of attribute 4 : 0.37993125
+Cut point 9 of attribute 4 : 0.4221125
+Cut point 10 of attribute 4 : 0.46429375
+Cut point 11 of attribute 4 : 0.506475
+Cut point 12 of attribute 4 : 0.5486562500000001
+Cut point 13 of attribute 4 : 0.5908375000000001
+Cut point 14 of attribute 4 : 0.6330187500000002
+Number of cut points of attribute 4 : 15
+Cut point 0 of attribute 5 : -393.3438
+Cut point 1 of attribute 5 : -328.7715
+Cut point 2 of attribute 5 : -264.1992
+Cut point 3 of attribute 5 : -199.62690000000003
+Cut point 4 of attribute 5 : -135.05460000000005
+Cut point 5 of attribute 5 : -70.48230000000005
+Cut point 6 of attribute 5 : -5.910000000000053
+Cut point 7 of attribute 5 : 58.662299999999945
+Cut point 8 of attribute 5 : 123.23459999999994
+Cut point 9 of attribute 5 : 187.80689999999993
+Cut point 10 of attribute 5 : 252.3791999999999
+Cut point 11 of attribute 5 : 316.9514999999999
+Cut point 12 of attribute 5 : 381.5237999999999
+Cut point 13 of attribute 5 : 446.09609999999986
+Cut point 14 of attribute 5 : 510.66839999999985
+Number of cut points of attribute 5 : 15
+Cut point 0 of attribute 6 : -296.1486875
+Cut point 1 of attribute 6 : -260.517375
+Cut point 2 of attribute 6 : -224.8860625
+Cut point 3 of attribute 6 : -189.25475
+Cut point 4 of attribute 6 : -153.6234375
+Cut point 5 of attribute 6 : -117.99212499999999
+Cut point 6 of attribute 6 : -82.36081249999998
+Cut point 7 of attribute 6 : -46.72949999999998
+Cut point 8 of attribute 6 : -11.09818749999998
+Cut point 9 of attribute 6 : 24.53312500000002
+Cut point 10 of attribute 6 : 60.16443750000002
+Cut point 11 of attribute 6 : 95.79575000000003
+Cut point 12 of attribute 6 : 131.42706250000003
+Cut point 13 of attribute 6 : 167.05837500000004
+Cut point 14 of attribute 6 : 202.68968750000005
+Number of cut points of attribute 6 : 15
+Cut point 0 of attribute 7 : -181.78559375
+Cut point 1 of attribute 7 : -157.6764875
+Cut point 2 of attribute 7 : -133.56738125
+Cut point 3 of attribute 7 : -109.45827500000001
+Cut point 4 of attribute 7 : -85.34916875000002
+Cut point 5 of attribute 7 : -61.24006250000002
+Cut point 6 of attribute 7 : -37.130956250000025
+Cut point 7 of attribute 7 : -13.021850000000025
+Cut point 8 of attribute 7 : 11.087256249999975
+Cut point 9 of attribute 7 : 35.19636249999998
+Cut point 10 of attribute 7 : 59.305468749999974
+Cut point 11 of attribute 7 : 83.41457499999997
+Cut point 12 of attribute 7 : 107.52368124999997
+Cut point 13 of attribute 7 : 131.63278749999998
+Cut point 14 of attribute 7 : 155.74189374999997
+Number of cut points of attribute 7 : 15
+Cut point 0 of attribute 8 : 5.625
+Cut point 1 of attribute 8 : 11.25
+Cut point 2 of attribute 8 : 16.875
+Cut point 3 of attribute 8 : 22.5
+Cut point 4 of attribute 8 : 28.125
+Cut point 5 of attribute 8 : 33.75
+Cut point 6 of attribute 8 : 39.375
+Cut point 7 of attribute 8 : 45.0
+Cut point 8 of attribute 8 : 50.625
+Cut point 9 of attribute 8 : 56.25
+Cut point 10 of attribute 8 : 61.875
+Cut point 11 of attribute 8 : 67.5
+Cut point 12 of attribute 8 : 73.125
+Cut point 13 of attribute 8 : 78.75
+Cut point 14 of attribute 8 : 84.375
+Number of cut points of attribute 8 : 15
+Cut point 0 of attribute 9 : 32.175
+Cut point 1 of attribute 9 : 63.06739999999999
+Cut point 2 of attribute 9 : 93.95979999999999
+Cut point 3 of attribute 9 : 124.85219999999998
+Cut point 4 of attribute 9 : 155.7446
+Cut point 5 of attribute 9 : 186.637
+Cut point 6 of attribute 9 : 217.5294
+Cut point 7 of attribute 9 : 248.42180000000002
+Cut point 8 of attribute 9 : 279.3142
+Cut point 9 of attribute 9 : 310.20660000000004
+Cut point 10 of attribute 9 : 341.09900000000005
+Cut point 11 of attribute 9 : 371.99140000000006
+Cut point 12 of attribute 9 : 402.88380000000006
+Cut point 13 of attribute 9 : 433.7762000000001
+Cut point 14 of attribute 9 : 464.6686000000001
+Number of cut points of attribute 9 : 15
+Cut point 0 of attribute 0 : 19.992714285714285
+Cut point 1 of attribute 0 : 35.701928571428574
+Cut point 2 of attribute 0 : 51.41114285714286
+Cut point 3 of attribute 0 : 67.12035714285715
+Cut point 4 of attribute 0 : 82.82957142857143
+Cut point 5 of attribute 0 : 98.53878571428571
+Cut point 6 of attribute 0 : 114.24799999999999
+Cut point 7 of attribute 0 : 129.9572142857143
+Cut point 8 of attribute 0 : 145.66642857142858
+Cut point 9 of attribute 0 : 161.37564285714288
+Cut point 10 of attribute 0 : 177.08485714285717
+Cut point 11 of attribute 0 : 192.79407142857147
+Cut point 12 of attribute 0 : 208.50328571428577
+Cut point 13 of attribute 0 : 224.21250000000006
+Cut point 14 of attribute 0 : 239.92171428571436
+Cut point 15 of attribute 0 : 255.63092857142865
+Cut point 16 of attribute 0 : 271.34014285714295
+Cut point 17 of attribute 0 : 287.0493571428572
+Cut point 18 of attribute 0 : 302.7585714285715
+Cut point 19 of attribute 0 : 318.46778571428575
+Number of cut points of attribute 0 : 20
+Cut point 0 of attribute 1 : 12.208666666666668
+Cut point 1 of attribute 1 : 24.417333333333335
+Cut point 2 of attribute 1 : 36.626000000000005
+Cut point 3 of attribute 1 : 48.83466666666667
+Cut point 4 of attribute 1 : 61.04333333333334
+Cut point 5 of attribute 1 : 73.25200000000001
+Cut point 6 of attribute 1 : 85.46066666666668
+Cut point 7 of attribute 1 : 97.66933333333336
+Cut point 8 of attribute 1 : 109.87800000000003
+Cut point 9 of attribute 1 : 122.0866666666667
+Cut point 10 of attribute 1 : 134.29533333333336
+Cut point 11 of attribute 1 : 146.50400000000002
+Cut point 12 of attribute 1 : 158.71266666666668
+Cut point 13 of attribute 1 : 170.92133333333334
+Cut point 14 of attribute 1 : 183.13
+Cut point 15 of attribute 1 : 195.33866666666665
+Cut point 16 of attribute 1 : 207.5473333333333
+Cut point 17 of attribute 1 : 219.75599999999997
+Cut point 18 of attribute 1 : 231.96466666666663
+Cut point 19 of attribute 1 : 244.1733333333333
+Number of cut points of attribute 1 : 20
+Cut point 0 of attribute 2 : 2.102347619047619
+Cut point 1 of attribute 2 : 2.263395238095238
+Cut point 2 of attribute 2 : 2.4244428571428567
+Cut point 3 of attribute 2 : 2.5854904761904756
+Cut point 4 of attribute 2 : 2.7465380952380944
+Cut point 5 of attribute 2 : 2.9075857142857133
+Cut point 6 of attribute 2 : 3.068633333333332
+Cut point 7 of attribute 2 : 3.229680952380951
+Cut point 8 of attribute 2 : 3.39072857142857
+Cut point 9 of attribute 2 : 3.551776190476189
+Cut point 10 of attribute 2 : 3.7128238095238077
+Cut point 11 of attribute 2 : 3.8738714285714266
+Cut point 12 of attribute 2 : 4.034919047619046
+Cut point 13 of attribute 2 : 4.195966666666665
+Cut point 14 of attribute 2 : 4.357014285714285
+Cut point 15 of attribute 2 : 4.518061904761904
+Cut point 16 of attribute 2 : 4.679109523809523
+Cut point 17 of attribute 2 : 4.840157142857143
+Cut point 18 of attribute 2 : 5.001204761904762
+Cut point 19 of attribute 2 : 5.162252380952381
+Number of cut points of attribute 2 : 20
+Cut point 0 of attribute 3 : 0.055
+Cut point 1 of attribute 3 : 0.0969
+Cut point 2 of attribute 3 : 0.1388
+Cut point 3 of attribute 3 : 0.1807
+Cut point 4 of attribute 3 : 0.2226
+Cut point 5 of attribute 3 : 0.2645
+Cut point 6 of attribute 3 : 0.3064
+Cut point 7 of attribute 3 : 0.3483
+Cut point 8 of attribute 3 : 0.3902
+Cut point 9 of attribute 3 : 0.4321
+Cut point 10 of attribute 3 : 0.474
+Cut point 11 of attribute 3 : 0.5159
+Cut point 12 of attribute 3 : 0.5578000000000001
+Cut point 13 of attribute 3 : 0.5997000000000001
+Cut point 14 of attribute 3 : 0.6416000000000002
+Cut point 15 of attribute 3 : 0.6835000000000002
+Cut point 16 of attribute 3 : 0.7254000000000003
+Cut point 17 of attribute 3 : 0.7673000000000003
+Cut point 18 of attribute 3 : 0.8092000000000004
+Cut point 19 of attribute 3 : 0.8511000000000004
+Number of cut points of attribute 3 : 20
+Cut point 0 of attribute 4 : 0.032438095238095245
+Cut point 1 of attribute 4 : 0.06457619047619048
+Cut point 2 of attribute 4 : 0.09671428571428572
+Cut point 3 of attribute 4 : 0.12885238095238097
+Cut point 4 of attribute 4 : 0.1609904761904762
+Cut point 5 of attribute 4 : 0.19312857142857145
+Cut point 6 of attribute 4 : 0.2252666666666667
+Cut point 7 of attribute 4 : 0.2574047619047619
+Cut point 8 of attribute 4 : 0.28954285714285716
+Cut point 9 of attribute 4 : 0.3216809523809524
+Cut point 10 of attribute 4 : 0.35381904761904764
+Cut point 11 of attribute 4 : 0.3859571428571429
+Cut point 12 of attribute 4 : 0.41809523809523813
+Cut point 13 of attribute 4 : 0.4502333333333334
+Cut point 14 of attribute 4 : 0.4823714285714286
+Cut point 15 of attribute 4 : 0.5145095238095239
+Cut point 16 of attribute 4 : 0.546647619047619
+Cut point 17 of attribute 4 : 0.5787857142857142
+Cut point 18 of attribute 4 : 0.6109238095238094
+Cut point 19 of attribute 4 : 0.6430619047619046
+Number of cut points of attribute 4 : 20
+Cut point 0 of attribute 5 : -408.71815714285714
+Cut point 1 of attribute 5 : -359.5202142857143
+Cut point 2 of attribute 5 : -310.32227142857147
+Cut point 3 of attribute 5 : -261.12432857142863
+Cut point 4 of attribute 5 : -211.92638571428577
+Cut point 5 of attribute 5 : -162.7284428571429
+Cut point 6 of attribute 5 : -113.53050000000005
+Cut point 7 of attribute 5 : -64.33255714285718
+Cut point 8 of attribute 5 : -15.134614285714328
+Cut point 9 of attribute 5 : 34.06332857142853
+Cut point 10 of attribute 5 : 83.26127142857138
+Cut point 11 of attribute 5 : 132.45921428571424
+Cut point 12 of attribute 5 : 181.6571571428571
+Cut point 13 of attribute 5 : 230.85509999999996
+Cut point 14 of attribute 5 : 280.0530428571428
+Cut point 15 of attribute 5 : 329.25098571428566
+Cut point 16 of attribute 5 : 378.4489285714285
+Cut point 17 of attribute 5 : 427.64687142857133
+Cut point 18 of attribute 5 : 476.84481428571416
+Cut point 19 of attribute 5 : 526.042757142857
+Number of cut points of attribute 5 : 20
+Cut point 0 of attribute 6 : -304.6323333333333
+Cut point 1 of attribute 6 : -277.4846666666666
+Cut point 2 of attribute 6 : -250.33699999999993
+Cut point 3 of attribute 6 : -223.18933333333325
+Cut point 4 of attribute 6 : -196.04166666666657
+Cut point 5 of attribute 6 : -168.8939999999999
+Cut point 6 of attribute 6 : -141.7463333333332
+Cut point 7 of attribute 6 : -114.59866666666655
+Cut point 8 of attribute 6 : -87.45099999999988
+Cut point 9 of attribute 6 : -60.303333333333214
+Cut point 10 of attribute 6 : -33.15566666666655
+Cut point 11 of attribute 6 : -6.007999999999882
+Cut point 12 of attribute 6 : 21.139666666666784
+Cut point 13 of attribute 6 : 48.28733333333345
+Cut point 14 of attribute 6 : 75.43500000000012
+Cut point 15 of attribute 6 : 102.58266666666678
+Cut point 16 of attribute 6 : 129.73033333333345
+Cut point 17 of attribute 6 : 156.8780000000001
+Cut point 18 of attribute 6 : 184.02566666666678
+Cut point 19 of attribute 6 : 211.17333333333346
+Number of cut points of attribute 6 : 20
+Cut point 0 of attribute 7 : -187.52585714285715
+Cut point 1 of attribute 7 : -169.1570142857143
+Cut point 2 of attribute 7 : -150.78817142857145
+Cut point 3 of attribute 7 : -132.4193285714286
+Cut point 4 of attribute 7 : -114.05048571428574
+Cut point 5 of attribute 7 : -95.68164285714289
+Cut point 6 of attribute 7 : -77.31280000000004
+Cut point 7 of attribute 7 : -58.94395714285718
+Cut point 8 of attribute 7 : -40.57511428571432
+Cut point 9 of attribute 7 : -22.206271428571462
+Cut point 10 of attribute 7 : -3.837428571428603
+Cut point 11 of attribute 7 : 14.531414285714256
+Cut point 12 of attribute 7 : 32.900257142857114
+Cut point 13 of attribute 7 : 51.26909999999997
+Cut point 14 of attribute 7 : 69.63794285714283
+Cut point 15 of attribute 7 : 88.00678571428568
+Cut point 16 of attribute 7 : 106.37562857142854
+Cut point 17 of attribute 7 : 124.74447142857139
+Cut point 18 of attribute 7 : 143.11331428571424
+Cut point 19 of attribute 7 : 161.4821571428571
+Number of cut points of attribute 7 : 20
+Cut point 0 of attribute 8 : 4.285714285714286
+Cut point 1 of attribute 8 : 8.571428571428571
+Cut point 2 of attribute 8 : 12.857142857142858
+Cut point 3 of attribute 8 : 17.142857142857142
+Cut point 4 of attribute 8 : 21.428571428571427
+Cut point 5 of attribute 8 : 25.71428571428571
+Cut point 6 of attribute 8 : 29.999999999999996
+Cut point 7 of attribute 8 : 34.285714285714285
+Cut point 8 of attribute 8 : 38.57142857142857
+Cut point 9 of attribute 8 : 42.857142857142854
+Cut point 10 of attribute 8 : 47.14285714285714
+Cut point 11 of attribute 8 : 51.42857142857142
+Cut point 12 of attribute 8 : 55.71428571428571
+Cut point 13 of attribute 8 : 59.99999999999999
+Cut point 14 of attribute 8 : 64.28571428571428
+Cut point 15 of attribute 8 : 68.57142857142857
+Cut point 16 of attribute 8 : 72.85714285714286
+Cut point 17 of attribute 8 : 77.14285714285715
+Cut point 18 of attribute 8 : 81.42857142857144
+Cut point 19 of attribute 8 : 85.71428571428574
+Number of cut points of attribute 8 : 20
+Cut point 0 of attribute 9 : 24.819666666666663
+Cut point 1 of attribute 9 : 48.356733333333324
+Cut point 2 of attribute 9 : 71.89379999999998
+Cut point 3 of attribute 9 : 95.43086666666665
+Cut point 4 of attribute 9 : 118.9679333333333
+Cut point 5 of attribute 9 : 142.50499999999997
+Cut point 6 of attribute 9 : 166.04206666666664
+Cut point 7 of attribute 9 : 189.57913333333332
+Cut point 8 of attribute 9 : 213.1162
+Cut point 9 of attribute 9 : 236.65326666666667
+Cut point 10 of attribute 9 : 260.19033333333334
+Cut point 11 of attribute 9 : 283.7274
+Cut point 12 of attribute 9 : 307.26446666666664
+Cut point 13 of attribute 9 : 330.8015333333333
+Cut point 14 of attribute 9 : 354.33859999999993
+Cut point 15 of attribute 9 : 377.8756666666666
+Cut point 16 of attribute 9 : 401.4127333333332
+Cut point 17 of attribute 9 : 424.94979999999987
+Cut point 18 of attribute 9 : 448.4868666666665
+Cut point 19 of attribute 9 : 472.02393333333316
+Number of cut points of attribute 9 : 20
+Cut point 0 of attribute 0 : 16.97171153846154
+Cut point 1 of attribute 0 : 29.65992307692308
+Cut point 2 of attribute 0 : 42.348134615384616
+Cut point 3 of attribute 0 : 55.036346153846154
+Cut point 4 of attribute 0 : 67.7245576923077
+Cut point 5 of attribute 0 : 80.41276923076924
+Cut point 6 of attribute 0 : 93.10098076923079
+Cut point 7 of attribute 0 : 105.78919230769233
+Cut point 8 of attribute 0 : 118.47740384615388
+Cut point 9 of attribute 0 : 131.16561538461542
+Cut point 10 of attribute 0 : 143.85382692307695
+Cut point 11 of attribute 0 : 156.54203846153848
+Cut point 12 of attribute 0 : 169.23025
+Cut point 13 of attribute 0 : 181.91846153846154
+Cut point 14 of attribute 0 : 194.60667307692307
+Cut point 15 of attribute 0 : 207.2948846153846
+Cut point 16 of attribute 0 : 219.98309615384613
+Cut point 17 of attribute 0 : 232.67130769230766
+Cut point 18 of attribute 0 : 245.3595192307692
+Cut point 19 of attribute 0 : 258.0477307692307
+Cut point 20 of attribute 0 : 270.73594230769226
+Cut point 21 of attribute 0 : 283.4241538461538
+Cut point 22 of attribute 0 : 296.1123653846153
+Cut point 23 of attribute 0 : 308.80057692307685
+Cut point 24 of attribute 0 : 321.4887884615384
+Number of cut points of attribute 0 : 25
+Cut point 0 of attribute 1 : 9.860846153846154
+Cut point 1 of attribute 1 : 19.721692307692308
+Cut point 2 of attribute 1 : 29.582538461538462
+Cut point 3 of attribute 1 : 39.443384615384616
+Cut point 4 of attribute 1 : 49.30423076923077
+Cut point 5 of attribute 1 : 59.165076923076924
+Cut point 6 of attribute 1 : 69.02592307692308
+Cut point 7 of attribute 1 : 78.88676923076923
+Cut point 8 of attribute 1 : 88.74761538461539
+Cut point 9 of attribute 1 : 98.60846153846154
+Cut point 10 of attribute 1 : 108.4693076923077
+Cut point 11 of attribute 1 : 118.33015384615385
+Cut point 12 of attribute 1 : 128.191
+Cut point 13 of attribute 1 : 138.05184615384616
+Cut point 14 of attribute 1 : 147.9126923076923
+Cut point 15 of attribute 1 : 157.77353846153846
+Cut point 16 of attribute 1 : 167.63438461538462
+Cut point 17 of attribute 1 : 177.49523076923077
+Cut point 18 of attribute 1 : 187.35607692307693
+Cut point 19 of attribute 1 : 197.21692307692308
+Cut point 20 of attribute 1 : 207.07776923076923
+Cut point 21 of attribute 1 : 216.9386153846154
+Cut point 22 of attribute 1 : 226.79946153846154
+Cut point 23 of attribute 1 : 236.6603076923077
+Cut point 24 of attribute 1 : 246.52115384615385
+Number of cut points of attribute 1 : 25
+Cut point 0 of attribute 2 : 2.0713769230769232
+Cut point 1 of attribute 2 : 2.2014538461538464
+Cut point 2 of attribute 2 : 2.3315307692307696
+Cut point 3 of attribute 2 : 2.461607692307693
+Cut point 4 of attribute 2 : 2.591684615384616
+Cut point 5 of attribute 2 : 2.7217615384615392
+Cut point 6 of attribute 2 : 2.8518384615384624
+Cut point 7 of attribute 2 : 2.9819153846153856
+Cut point 8 of attribute 2 : 3.111992307692309
+Cut point 9 of attribute 2 : 3.242069230769232
+Cut point 10 of attribute 2 : 3.3721461538461552
+Cut point 11 of attribute 2 : 3.5022230769230784
+Cut point 12 of attribute 2 : 3.6323000000000016
+Cut point 13 of attribute 2 : 3.762376923076925
+Cut point 14 of attribute 2 : 3.892453846153848
+Cut point 15 of attribute 2 : 4.022530769230771
+Cut point 16 of attribute 2 : 4.152607692307694
+Cut point 17 of attribute 2 : 4.282684615384618
+Cut point 18 of attribute 2 : 4.412761538461541
+Cut point 19 of attribute 2 : 4.542838461538464
+Cut point 20 of attribute 2 : 4.672915384615387
+Cut point 21 of attribute 2 : 4.8029923076923104
+Cut point 22 of attribute 2 : 4.933069230769234
+Cut point 23 of attribute 2 : 5.063146153846157
+Cut point 24 of attribute 2 : 5.19322307692308
+Number of cut points of attribute 2 : 25
+Cut point 0 of attribute 3 : 0.04694230769230769
+Cut point 1 of attribute 3 : 0.08078461538461539
+Cut point 2 of attribute 3 : 0.11462692307692307
+Cut point 3 of attribute 3 : 0.14846923076923077
+Cut point 4 of attribute 3 : 0.18231153846153847
+Cut point 5 of attribute 3 : 0.21615384615384617
+Cut point 6 of attribute 3 : 0.24999615384615387
+Cut point 7 of attribute 3 : 0.28383846153846154
+Cut point 8 of attribute 3 : 0.3176807692307692
+Cut point 9 of attribute 3 : 0.3515230769230769
+Cut point 10 of attribute 3 : 0.38536538461538455
+Cut point 11 of attribute 3 : 0.4192076923076922
+Cut point 12 of attribute 3 : 0.4530499999999999
+Cut point 13 of attribute 3 : 0.48689230769230757
+Cut point 14 of attribute 3 : 0.5207346153846153
+Cut point 15 of attribute 3 : 0.554576923076923
+Cut point 16 of attribute 3 : 0.5884192307692306
+Cut point 17 of attribute 3 : 0.6222615384615383
+Cut point 18 of attribute 3 : 0.656103846153846
+Cut point 19 of attribute 3 : 0.6899461538461537
+Cut point 20 of attribute 3 : 0.7237884615384613
+Cut point 21 of attribute 3 : 0.757630769230769
+Cut point 22 of attribute 3 : 0.7914730769230767
+Cut point 23 of attribute 3 : 0.8253153846153843
+Cut point 24 of attribute 3 : 0.859157692307692
+Number of cut points of attribute 3 : 25
+Cut point 0 of attribute 4 : 0.026257692307692312
+Cut point 1 of attribute 4 : 0.05221538461538462
+Cut point 2 of attribute 4 : 0.07817307692307693
+Cut point 3 of attribute 4 : 0.10413076923076924
+Cut point 4 of attribute 4 : 0.13008846153846154
+Cut point 5 of attribute 4 : 0.15604615384615386
+Cut point 6 of attribute 4 : 0.18200384615384618
+Cut point 7 of attribute 4 : 0.2079615384615385
+Cut point 8 of attribute 4 : 0.23391923076923082
+Cut point 9 of attribute 4 : 0.2598769230769231
+Cut point 10 of attribute 4 : 0.2858346153846154
+Cut point 11 of attribute 4 : 0.3117923076923077
+Cut point 12 of attribute 4 : 0.33775
+Cut point 13 of attribute 4 : 0.3637076923076923
+Cut point 14 of attribute 4 : 0.3896653846153846
+Cut point 15 of attribute 4 : 0.4156230769230769
+Cut point 16 of attribute 4 : 0.44158076923076917
+Cut point 17 of attribute 4 : 0.46753846153846146
+Cut point 18 of attribute 4 : 0.49349615384615375
+Cut point 19 of attribute 4 : 0.519453846153846
+Cut point 20 of attribute 4 : 0.5454115384615383
+Cut point 21 of attribute 4 : 0.5713692307692306
+Cut point 22 of attribute 4 : 0.5973269230769229
+Cut point 23 of attribute 4 : 0.6232846153846152
+Cut point 24 of attribute 4 : 0.6492423076923075
+Number of cut points of attribute 4 : 25
+Cut point 0 of attribute 5 : -418.17929999999996
+Cut point 1 of attribute 5 : -378.44249999999994
+Cut point 2 of attribute 5 : -338.7056999999999
+Cut point 3 of attribute 5 : -298.9688999999999
+Cut point 4 of attribute 5 : -259.2320999999999
+Cut point 5 of attribute 5 : -219.49529999999987
+Cut point 6 of attribute 5 : -179.75849999999986
+Cut point 7 of attribute 5 : -140.02169999999984
+Cut point 8 of attribute 5 : -100.28489999999984
+Cut point 9 of attribute 5 : -60.548099999999835
+Cut point 10 of attribute 5 : -20.811299999999832
+Cut point 11 of attribute 5 : 18.92550000000017
+Cut point 12 of attribute 5 : 58.66230000000017
+Cut point 13 of attribute 5 : 98.39910000000017
+Cut point 14 of attribute 5 : 138.13590000000016
+Cut point 15 of attribute 5 : 177.87270000000018
+Cut point 16 of attribute 5 : 217.6095000000002
+Cut point 17 of attribute 5 : 257.3463000000002
+Cut point 18 of attribute 5 : 297.08310000000023
+Cut point 19 of attribute 5 : 336.81990000000025
+Cut point 20 of attribute 5 : 376.55670000000026
+Cut point 21 of attribute 5 : 416.2935000000003
+Cut point 22 of attribute 5 : 456.0303000000003
+Cut point 23 of attribute 5 : 495.7671000000003
+Cut point 24 of attribute 5 : 535.5039000000003
+Number of cut points of attribute 5 : 25
+Cut point 0 of attribute 6 : -309.85303846153846
+Cut point 1 of attribute 6 : -287.92607692307695
+Cut point 2 of attribute 6 : -265.99911538461544
+Cut point 3 of attribute 6 : -244.0721538461539
+Cut point 4 of attribute 6 : -222.14519230769235
+Cut point 5 of attribute 6 : -200.21823076923081
+Cut point 6 of attribute 6 : -178.29126923076927
+Cut point 7 of attribute 6 : -156.36430769230773
+Cut point 8 of attribute 6 : -134.4373461538462
+Cut point 9 of attribute 6 : -112.51038461538465
+Cut point 10 of attribute 6 : -90.58342307692311
+Cut point 11 of attribute 6 : -68.65646153846157
+Cut point 12 of attribute 6 : -46.72950000000003
+Cut point 13 of attribute 6 : -24.802538461538493
+Cut point 14 of attribute 6 : -2.875576923076956
+Cut point 15 of attribute 6 : 19.05138461538458
+Cut point 16 of attribute 6 : 40.97834615384612
+Cut point 17 of attribute 6 : 62.90530769230766
+Cut point 18 of attribute 6 : 84.8322692307692
+Cut point 19 of attribute 6 : 106.75923076923074
+Cut point 20 of attribute 6 : 128.68619230769227
+Cut point 21 of attribute 6 : 150.6131538461538
+Cut point 22 of attribute 6 : 172.54011538461535
+Cut point 23 of attribute 6 : 194.4670769230769
+Cut point 24 of attribute 6 : 216.39403846153843
+Number of cut points of attribute 6 : 25
+Cut point 0 of attribute 7 : -191.05832692307692
+Cut point 1 of attribute 7 : -176.22195384615384
+Cut point 2 of attribute 7 : -161.38558076923076
+Cut point 3 of attribute 7 : -146.54920769230768
+Cut point 4 of attribute 7 : -131.7128346153846
+Cut point 5 of attribute 7 : -116.87646153846151
+Cut point 6 of attribute 7 : -102.04008846153843
+Cut point 7 of attribute 7 : -87.20371538461535
+Cut point 8 of attribute 7 : -72.36734230769227
+Cut point 9 of attribute 7 : -57.53096923076919
+Cut point 10 of attribute 7 : -42.694596153846106
+Cut point 11 of attribute 7 : -27.85822307692303
+Cut point 12 of attribute 7 : -13.02184999999995
+Cut point 13 of attribute 7 : 1.8145230769231269
+Cut point 14 of attribute 7 : 16.650896153846205
+Cut point 15 of attribute 7 : 31.487269230769282
+Cut point 16 of attribute 7 : 46.32364230769236
+Cut point 17 of attribute 7 : 61.160015384615434
+Cut point 18 of attribute 7 : 75.99638846153852
+Cut point 19 of attribute 7 : 90.8327615384616
+Cut point 20 of attribute 7 : 105.66913461538468
+Cut point 21 of attribute 7 : 120.50550769230776
+Cut point 22 of attribute 7 : 135.34188076923084
+Cut point 23 of attribute 7 : 150.17825384615392
+Cut point 24 of attribute 7 : 165.014626923077
+Number of cut points of attribute 7 : 25
+Cut point 0 of attribute 8 : 3.4615384615384617
+Cut point 1 of attribute 8 : 6.923076923076923
+Cut point 2 of attribute 8 : 10.384615384615385
+Cut point 3 of attribute 8 : 13.846153846153847
+Cut point 4 of attribute 8 : 17.307692307692307
+Cut point 5 of attribute 8 : 20.769230769230766
+Cut point 6 of attribute 8 : 24.230769230769226
+Cut point 7 of attribute 8 : 27.692307692307686
+Cut point 8 of attribute 8 : 31.153846153846146
+Cut point 9 of attribute 8 : 34.615384615384606
+Cut point 10 of attribute 8 : 38.076923076923066
+Cut point 11 of attribute 8 : 41.538461538461526
+Cut point 12 of attribute 8 : 44.999999999999986
+Cut point 13 of attribute 8 : 48.461538461538446
+Cut point 14 of attribute 8 : 51.923076923076906
+Cut point 15 of attribute 8 : 55.384615384615365
+Cut point 16 of attribute 8 : 58.846153846153825
+Cut point 17 of attribute 8 : 62.307692307692285
+Cut point 18 of attribute 8 : 65.76923076923075
+Cut point 19 of attribute 8 : 69.23076923076921
+Cut point 20 of attribute 8 : 72.69230769230768
+Cut point 21 of attribute 8 : 76.15384615384615
+Cut point 22 of attribute 8 : 79.61538461538461
+Cut point 23 of attribute 8 : 83.07692307692308
+Cut point 24 of attribute 8 : 86.53846153846155
+Number of cut points of attribute 8 : 25
+Cut point 0 of attribute 9 : 20.29330769230769
+Cut point 1 of attribute 9 : 39.30401538461538
+Cut point 2 of attribute 9 : 58.31472307692307
+Cut point 3 of attribute 9 : 77.32543076923076
+Cut point 4 of attribute 9 : 96.33613846153845
+Cut point 5 of attribute 9 : 115.34684615384614
+Cut point 6 of attribute 9 : 134.35755384615385
+Cut point 7 of attribute 9 : 153.36826153846152
+Cut point 8 of attribute 9 : 172.3789692307692
+Cut point 9 of attribute 9 : 191.38967692307688
+Cut point 10 of attribute 9 : 210.40038461538455
+Cut point 11 of attribute 9 : 229.41109230769223
+Cut point 12 of attribute 9 : 248.4217999999999
+Cut point 13 of attribute 9 : 267.4325076923076
+Cut point 14 of attribute 9 : 286.44321538461526
+Cut point 15 of attribute 9 : 305.45392307692293
+Cut point 16 of attribute 9 : 324.4646307692306
+Cut point 17 of attribute 9 : 343.4753384615383
+Cut point 18 of attribute 9 : 362.48604615384596
+Cut point 19 of attribute 9 : 381.49675384615364
+Cut point 20 of attribute 9 : 400.5074615384613
+Cut point 21 of attribute 9 : 419.518169230769
+Cut point 22 of attribute 9 : 438.52887692307667
+Cut point 23 of attribute 9 : 457.53958461538434
+Cut point 24 of attribute 9 : 476.550292307692
+Number of cut points of attribute 9 : 25
+0.35167659773338006 3
+0.35167659773338006 2
+0.35167659773338006 5
+0.35167659773338006 6
+0.35167659773338006 4
+0.35167659773338006 5
+0.35167659773338006 7
+0.35167659773338006 11
+0.35167659773338006 3
+0.35167659773338006 1
+0.35167659773338006 6
+0.35167659773338006 4
+0.35167659773338006 6
+0.35167659773338006 2
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 7
+0.35167659773338006 3
+0.35167659773338006 6
+0.35167659773338006 4
+0.35167659773338006 2
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 2
+0.35167659773338006 3
+0.35167659773338006 4
+0.35167659773338006 2
+0.35167659773338006 1
+0.35167659773338006 5
+0.35167659773338006 7
+0.35167659773338006 3
+0.35167659773338006 7
+0.35167659773338006 5
+0.35167659773338006 4
+0.35167659773338006 5
+0.35167659773338006 3
+0.35167659773338006 3
+0.35167659773338006 5
+0.35167659773338006 4
+0.35167659773338006 5
+0.35167659773338006 3
+0.35167659773338006 3
+0.35167659773338006 5
+0.35167659773338006 6
+0.35167659773338006 1
+0.35167659773338006 1
+0.35167659773338006 4
+0.35167659773338006 3
+0.35167659773338006 6
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 3
+0.35167659773338006 7
+0.35167659773338006 1
+0.35167659773338006 8
+0.35167659773338006 2
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 3
+0.35167659773338006 4
+0.35167659773338006 2
+0.35167659773338006 3
+0.35167659773338006 2
+0.35167659773338006 2
+0.35167659773338006 1
+0.35167659773338006 7
+0.35167659773338006 4
+0.35167659773338006 5
+0.35167659773338006 3
+0.35167659773338006 4
+0.35167659773338006 2
+0.35167659773338006 1
+0.35167659773338006 3
+0.35167659773338006 4
+0.35167659773338006 2
+0.35167659773338006 3
+0.35167659773338006 1
+0.35167659773338006 6
+0.35167659773338006 2
+0.35167659773338006 4
+0.35167659773338006 3
+0.35167659773338006 1
+0.35167659773338006 5
+0.35167659773338006 3
+0.35167659773338006 4
+0.35167659773338006 8
+0.35167659773338006 8
+0.35167659773338006 5
+0.35167659773338006 2
+0.35167659773338006 7
+0.35167659773338006 6
+0.35167659773338006 3
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 3
+0.35167659773338006 1
+0.35167659773338006 6
+0.35167659773338006 3
+0.35167659773338006 7
+0.35167659773338006 4
+0.35167659773338006 3
+0.35167659773338006 6
+0.35167659773338006 3
+0.35167659773338006 5
+0.35167659773338006 5
+0.35167659773338006 6
+0.35167659773338006 4
+0.35167659773338006 2
+0.35167659773338006 3
+0.35167659773338006 4
+0.35167659773338006 2
+0.35167659773338006 3
+0.35167659773338006 5
+0.35167659773338006 3
+0.35167659773338006 4
+0.35167659773338006 2
+0.35167659773338006 1
+0.35167659773338006 8
+0.35167659773338006 1
+0.35167659773338006 7
+0.35167659773338006 2
+0.35167659773338006 4
+0.35167659773338006 2
+0.35167659773338006 5
+0.35167659773338006 7
+0.35167659773338006 3
+0.35167659773338006 5
+0.35167659773338006 6
+0.35167659773338006 1
+0.35167659773338006 4
+0.35167659773338006 6
+0.35167659773338006 4
+0.35167659773338006 2
+0.35167659773338006 5
+0.35167659773338006 2
+0.35167659773338006 5
+0.35167659773338006 7
+0.35167659773338006 3
+0.35167659773338006 1
+0.35167659773338006 2
+0.35167659773338006 4
+0.35167659773338006 3
+0.35167659773338006 5
+0.35167659773338006 5
+0.35167659773338006 7
+0.35167659773338006 5
+0.35167659773338006 5
+0.35167659773338006 4
+0.35167659773338006 5
+0.35167659773338006 5
+0.35167659773338006 2
+0.35167659773338006 3
+0.35167659773338006 5
+0.35167659773338006 6
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 3
+0.35167659773338006 8
+0.35167659773338006 5
+0.35167659773338006 5
+0.35167659773338006 3
+0.35167659773338006 9
+0.35167659773338006 5
+0.35167659773338006 4
+0.35167659773338006 3
+0.35167659773338006 6
+0.35167659773338006 4
+0.35167659773338006 5
+0.35167659773338006 6
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 6
+0.35167659773338006 1
+0.35167659773338006 6
+0.35167659773338006 2
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 5
+0.35167659773338006 7
+0.35167659773338006 7
+0.35167659773338006 4
+0.35167659773338006 3
+0.35167659773338006 5
+0.35167659773338006 4
+0.35167659773338006 3
+0.35167659773338006 1
+0.35167659773338006 5
+0.35167659773338006 4
+0.35167659773338006 5
+0.35167659773338006 4
+0.35167659773338006 1
+0.35167659773338006 6
+0.35167659773338006 4
+0.35167659773338006 7
+0.35167659773338006 2
+0.35167659773338006 4
+0.35167659773338006 5
+0.35167659773338006 7
+0.35167659773338006 1
+=====================population==================
+0.35167659773338006 4
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.35167659773338006 3
+0.35167659773338006 1
+0.35167659773338006 4
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.35167659773338006 1
+0.0 0
+0.0 0
+0.35167659773338006 4
+0.35167659773338006 6
+0.35167659773338006 5
+0.35167659773338006 4
+0.35167659773338006 5
+0.0 0
+0.0 0
+0.35167659773338006 3
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.35167659773338006 1
+0.35167659773338006 1
+0.35167659773338006 4
+0.35167659773338006 6
+0.0 0
+0.0 0
+0.35167659773338006 1
+0.0 0
+0.0 0
+0.35167659773338006 3
+0.0 0
+0.0 0
+0.35167659773338006 5
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.35167659773338006 4
+0.35167659773338006 5
+0.35167659773338006 1
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.35167659773338006 4
+0.0 0
+0.0 0
+0.35167659773338006 6
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.35167659773338006 3
+0.0 0
+0.0 0
+0.35167659773338006 1
+0.35167659773338006 3
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 2
+0.35167659773338006 8
+0.35167659773338006 2
+0.0 0
+0.0 0
+0.35167659773338006 3
+0.0 0
+0.0 0
+0.35167659773338006 4
+0.0 0
+0.0 0
+0.35167659773338006 7
+0.0 0
+0.0 0
+0.35167659773338006 2
+0.0 0
+0.0 0
+0.35167659773338006 1
+0.35167659773338006 4
+0.35167659773338006 11
+0.0 0
+0.0 0
+0.35167659773338006 4
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.35167659773338006 2
+0.35167659773338006 5
+0.0 0
+0.0 0
+0.35167659773338006 2
+0.0 0
+0.0 0
+0.35167659773338006 5
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.35167659773338006 5
+0.35167659773338006 3
+0.35167659773338006 3
+0.35167659773338006 1
+0.35167659773338006 5
+0.0 0
+0.0 0
+0.35167659773338006 6
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 3
+0.35167659773338006 4
+0.35167659773338006 2
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.35167659773338006 4
+0.35167659773338006 5
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.35167659773338006 5
+0.0 0
+0.0 0
+0.35167659773338006 2
+0.35167659773338006 5
+0.0 0
+0.0 0
+0.35167659773338006 4
+0.35167659773338006 7
+0.35167659773338006 3
+0.0 0
+0.0 0
+0.35167659773338006 4
+0.0 0
+0.0 0
+0.35167659773338006 3
+0.35167659773338006 4
+0.35167659773338006 2
+0.35167659773338006 3
+0.0 0
+0.0 0
+0.35167659773338006 4
+0.35167659773338006 2
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.35167659773338006 5
+0.0 0
+0.0 0
+0.35167659773338006 7
+0.35167659773338006 4
+0.35167659773338006 3
+0.0 0
+0.0 0
+0.35167659773338006 6
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.35167659773338006 5
+0.0 0
+0.0 0
+0.35167659773338006 1
+0.35167659773338006 1
+0.35167659773338006 3
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.35167659773338006 6
+0.35167659773338006 4
+0.35167659773338006 4
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.35167659773338006 4
+0.35167659773338006 3
+0.35167659773338006 3
+0.0 0
+0.0 0
+0.35167659773338006 2
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.35167659773338006 4
+=====================offspring==================
+14 1.0E8 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+14 0.0 64.83234022666198 21.0
+Best of iteration 0 : 0.37965883864937494 67.0341161350625 5(5)
+0.37965883864937494 5
+0.35167659773338006 1
+0.35167659773338006 5
+0.35167659773338006 5
+0.35167659773338006 5
+0.34279705573080965 4
+0.35167659773338006 5
+0.35167659773338006 2
+0.35167659773338006 3
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 5
+0.35167659773338006 4
+0.35167659773338006 1
+0.35167659773338006 2
+0.35167659773338006 7
+0.35167659773338006 1
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 7
+0.35167659773338006 4
+0.35167659773338006 7
+0.35167659773338006 2
+0.35167659773338006 4
+0.35167659773338006 6
+0.35167659773338006 4
+0.35167659773338006 9
+0.35167659773338006 1
+0.35167659773338006 3
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 1
+0.35167659773338006 5
+0.35167659773338006 5
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 5
+0.35167659773338006 3
+0.35167659773338006 4
+0.35167659773338006 1
+0.35167659773338006 6
+0.35167659773338006 6
+0.35167659773338006 2
+0.35167659773338006 2
+0.35167659773338006 3
+0.35167659773338006 1
+0.35167659773338006 4
+0.35167659773338006 5
+0.35167659773338006 3
+0.35167659773338006 2
+0.35167659773338006 7
+0.35167659773338006 3
+0.35167659773338006 1
+0.35167659773338006 3
+0.35167659773338006 3
+0.35167659773338006 4
+0.35167659773338006 5
+0.35167659773338006 6
+0.35167659773338006 4
+0.35167659773338006 5
+0.35167659773338006 7
+0.35167659773338006 11
+0.35167659773338006 3
+0.35167659773338006 1
+0.35167659773338006 6
+0.35167659773338006 4
+0.35167659773338006 6
+0.35167659773338006 2
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 7
+0.35167659773338006 3
+0.35167659773338006 6
+0.35167659773338006 4
+0.35167659773338006 2
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 2
+0.35167659773338006 3
+0.35167659773338006 4
+0.35167659773338006 2
+0.35167659773338006 1
+0.35167659773338006 5
+0.35167659773338006 7
+0.35167659773338006 3
+0.35167659773338006 7
+0.35167659773338006 5
+0.35167659773338006 4
+0.35167659773338006 5
+0.35167659773338006 3
+0.35167659773338006 3
+0.35167659773338006 5
+0.35167659773338006 4
+0.35167659773338006 5
+0.35167659773338006 3
+0.35167659773338006 3
+0.35167659773338006 5
+0.35167659773338006 6
+0.35167659773338006 1
+0.35167659773338006 1
+0.35167659773338006 4
+0.35167659773338006 3
+0.35167659773338006 6
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 3
+0.35167659773338006 7
+0.35167659773338006 1
+0.35167659773338006 8
+0.35167659773338006 2
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 3
+0.35167659773338006 4
+0.35167659773338006 2
+0.35167659773338006 3
+0.35167659773338006 2
+0.35167659773338006 2
+0.35167659773338006 1
+0.35167659773338006 7
+0.35167659773338006 4
+0.35167659773338006 5
+0.35167659773338006 3
+0.35167659773338006 4
+0.35167659773338006 2
+0.35167659773338006 1
+0.35167659773338006 3
+0.35167659773338006 4
+0.35167659773338006 2
+0.35167659773338006 3
+0.35167659773338006 1
+0.35167659773338006 6
+0.35167659773338006 2
+0.35167659773338006 4
+0.35167659773338006 3
+0.35167659773338006 1
+0.35167659773338006 5
+0.35167659773338006 3
+0.35167659773338006 4
+0.35167659773338006 8
+0.35167659773338006 8
+0.35167659773338006 5
+0.35167659773338006 2
+0.35167659773338006 7
+0.35167659773338006 6
+0.35167659773338006 3
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 3
+0.35167659773338006 1
+0.35167659773338006 6
+0.35167659773338006 3
+0.35167659773338006 7
+0.35167659773338006 4
+0.35167659773338006 3
+0.35167659773338006 6
+0.35167659773338006 3
+0.35167659773338006 5
+0.35167659773338006 5
+0.35167659773338006 6
+0.35167659773338006 4
+0.35167659773338006 2
+0.35167659773338006 3
+0.35167659773338006 4
+0.35167659773338006 2
+0.35167659773338006 3
+0.35167659773338006 5
+0.35167659773338006 3
+0.35167659773338006 4
+0.35167659773338006 2
+0.35167659773338006 1
+0.35167659773338006 8
+0.35167659773338006 1
+0.35167659773338006 7
+0.35167659773338006 2
+0.35167659773338006 4
+0.35167659773338006 2
+0.35167659773338006 5
+0.35167659773338006 7
+0.35167659773338006 3
+0.35167659773338006 5
+0.35167659773338006 6
+0.35167659773338006 1
+0.35167659773338006 4
+0.35167659773338006 6
+0.35167659773338006 4
+0.35167659773338006 2
+0.35167659773338006 5
+0.35167659773338006 2
+0.35167659773338006 5
+0.35167659773338006 7
+0.35167659773338006 3
+0.35167659773338006 1
+0.35167659773338006 2
+0.35167659773338006 4
+0.35167659773338006 3
+0.35167659773338006 5
+0.35167659773338006 5
+=====================population==================
+0.35167659773338006 5
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.35167659773338006 4
+0.0 0
+0.0 0
+0.35167659773338006 6
+0.0 0
+0.0 0
+0.35167659773338006 5
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 1
+0.0 0
+0.0 0
+0.35167659773338006 5
+0.35167659773338006 5
+0.35167659773338006 2
+0.35167659773338006 4
+0.0 0
+0.0 0
+0.35167659773338006 2
+0.35167659773338006 4
+0.0 0
+0.0 0
+0.35167659773338006 1
+0.35167659773338006 3
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.35167659773338006 1
+0.35167659773338006 1
+0.35167659773338006 4
+0.35167659773338006 3
+0.35167659773338006 3
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.35167659773338006 4
+0.34279705573080965 4
+0.35167659773338006 7
+0.35167659773338006 5
+0.35167659773338006 5
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.35167659773338006 3
+0.35167659773338006 5
+0.35167659773338006 4
+0.0 0
+0.0 0
+0.35167659773338006 4
+0.35167659773338006 1
+0.35167659773338006 7
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.35167659773338006 5
+0.35167659773338006 5
+0.0 0
+0.0 0
+0.35167659773338006 3
+0.0 0
+0.0 0
+0.35167659773338006 7
+0.35167659773338006 5
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.35167659773338006 4
+0.0 0
+0.0 0
+0.35167659773338006 1
+0.35167659773338006 6
+0.0 0
+0.0 0
+0.35167659773338006 5
+0.35167659773338006 5
+0.35167659773338006 4
+0.35167659773338006 2
+0.35167659773338006 1
+0.0 0
+0.0 0
+0.35167659773338006 7
+0.0 0
+0.0 0
+0.35167659773338006 4
+0.35167659773338006 4
+0.37965883864937494 5
+0.0 0
+0.0 0
+0.35167659773338006 4
+0.35167659773338006 1
+0.35167659773338006 3
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.35167659773338006 4
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.35167659773338006 4
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.35167659773338006 4
+0.35167659773338006 7
+0.0 0
+0.0 0
+0.35167659773338006 4
+0.35167659773338006 5
+0.35167659773338006 4
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.35167659773338006 7
+0.35167659773338006 5
+0.35167659773338006 1
+0.0 0
+0.0 0
+0.35167659773338006 4
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.35167659773338006 5
+0.35167659773338006 4
+0.0 0
+0.0 0
+0.35167659773338006 4
+0.0 0
+0.0 0
+0.35167659773338006 1
+0.0 0
+0.0 0
+0.35167659773338006 3
+0.35167659773338006 9
+0.35167659773338006 2
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.35167659773338006 5
+0.35167659773338006 1
+0.35167659773338006 5
+0.0 0
+0.0 0
+0.35167659773338006 3
+0.35167659773338006 2
+0.0 0
+0.0 0
+0.35167659773338006 2
+0.35167659773338006 2
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.35167659773338006 1
+0.35167659773338006 3
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.35167659773338006 4
+0.35167659773338006 6
+0.35167659773338006 3
+0.0 0
+0.0 0
+0.35167659773338006 1
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.35167659773338006 6
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+=====================offspring==================
+1 1.0E8 62.034116135062504 5.0
+1 1.034598214285713 64.83234022666198 4.0
+2 1.000000002E8 65.72029442691903 4.0
+4 1.0E8 64.83234022666198 8.0
+4 0.0 64.83234022666198 8.0
+4 0.0 64.83234022666198 8.0
+5 1.0E8 64.83234022666198 9.0
+5 1.0 64.83234022666198 9.0
+6 1.0E8 64.83234022666198 10.0
+7 1.0E8 64.83234022666198 11.0
+7 0.0 64.83234022666198 11.0
+7 0.0 64.83234022666198 11.0
+7 0.0 64.83234022666198 11.0
+7 0.0 64.83234022666198 11.0
+8 1.0E8 64.83234022666198 12.0
+8 0.0 64.83234022666198 12.0
+9 1.0E8 64.83234022666198 13.0
+9 0.0 64.83234022666198 13.0
+9 0.0 64.83234022666198 13.0
+9 0.0 64.83234022666198 13.0
+10 1.0E8 64.83234022666198 14.0
+10 0.0 64.83234022666198 14.0
+10 0.0 64.83234022666198 14.0
+10 0.0 64.83234022666198 14.0
+10 0.0 64.83234022666198 14.0
+10 0.0 64.83234022666198 14.0
+10 0.0 64.83234022666198 14.0
+11 1.0E8 64.83234022666198 15.0
+11 0.0 64.83234022666198 15.0
+11 0.0 64.83234022666198 15.0
+12 1.0E8 64.83234022666198 16.0
+12 0.0 64.83234022666198 16.0
+12 0.0 64.83234022666198 16.0
+12 0.0 64.83234022666198 16.0
+12 0.0 64.83234022666198 16.0
+13 1.0E8 64.83234022666198 17.0
+13 0.0 64.83234022666198 17.0
+13 0.0 64.83234022666198 17.0
+14 1.0E8 64.83234022666198 18.0
+14 0.0 64.83234022666198 18.0
+14 0.0 64.83234022666198 18.0
+14 0.0 64.83234022666198 18.0
+14 0.0 64.83234022666198 18.0
+14 0.0 64.83234022666198 18.0
+14 0.0 64.83234022666198 18.0
+14 0.0 64.83234022666198 18.0
+15 1.0E8 64.83234022666198 19.0
+15 0.0 64.83234022666198 19.0
+15 0.0 64.83234022666198 19.0
+15 0.0 64.83234022666198 19.0
+15 0.0 64.83234022666198 19.0
+15 0.0 64.83234022666198 19.0
+16 1.0E8 64.83234022666198 20.0
+16 0.0 64.83234022666198 20.0
+16 0.0 64.83234022666198 20.0
+16 0.0 64.83234022666198 20.0
+17 1.0E8 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+17 0.0 64.83234022666198 21.0
+Best of iteration 1 : 0.5075943451337773 57.05779406876767 3(3)
+0.5075943451337773 3
+0.45221404369669355 2
+0.37965883864937494 5
+0.35167659773338006 1
+0.35167659773338006 1
+0.35167659773338006 1
+0.3273162752658021 3
+0.34279705573080965 4
+0.35167659773338006 3
+0.34279705573080965 4
+0.3446664329945087 5
+0.352260778128286 8
+0.35167659773338006 4
+0.35167659773338006 5
+0.35167659773338006 5
+0.35167659773338006 5
+0.35167659773338006 3
+0.35167659773338006 4
+0.35167659773338006 1
+0.35167659773338006 5
+0.35167659773338006 5
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 5
+0.35167659773338006 5
+0.35167659773338006 2
+0.35167659773338006 3
+0.35167659773338006 1
+0.35167659773338006 5
+0.35167659773338006 2
+0.3480546792849632 8
+0.35167659773338006 3
+0.35167659773338006 2
+0.35167659773338006 2
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 3
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 5
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 5
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 3
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 5
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 6
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 2
+0.35167659773338006 3
+0.35167659773338006 7
+0.35167659773338006 6
+0.35167659773338006 1
+0.35167659773338006 2
+0.35167659773338006 2
+0.35167659773338006 2
+0.35167659773338006 3
+0.35167659773338006 4
+0.35167659773338006 1
+0.35167659773338006 3
+0.35167659773338006 1
+0.35167659773338006 2
+0.35167659773338006 1
+0.35167659773338006 3
+0.35167659773338006 4
+0.35167659773338006 7
+0.35167659773338006 5
+0.35167659773338006 7
+0.35167659773338006 1
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 3
+0.35167659773338006 2
+0.35167659773338006 4
+0.35167659773338006 3
+0.35167659773338006 7
+0.35167659773338006 3
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 7
+0.35167659773338006 1
+0.35167659773338006 7
+0.35167659773338006 4
+0.35167659773338006 7
+0.35167659773338006 2
+0.35167659773338006 4
+0.35167659773338006 6
+0.35167659773338006 4
+0.35167659773338006 7
+0.35167659773338006 7
+0.35167659773338006 4
+0.35167659773338006 6
+0.35167659773338006 9
+0.35167659773338006 4
+0.35167659773338006 5
+0.35167659773338006 5
+0.35167659773338006 2
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 2
+0.35167659773338006 1
+0.35167659773338006 5
+0.35167659773338006 9
+0.35167659773338006 1
+0.35167659773338006 3
+0.35167659773338006 2
+0.35167659773338006 4
+0.35167659773338006 5
+0.35167659773338006 3
+0.35167659773338006 3
+0.35167659773338006 6
+0.35167659773338006 3
+0.35167659773338006 9
+0.35167659773338006 5
+0.35167659773338006 3
+0.35167659773338006 5
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 1
+0.35167659773338006 5
+0.35167659773338006 4
+0.35167659773338006 1
+0.35167659773338006 6
+0.35167659773338006 4
+0.35167659773338006 8
+0.35167659773338006 3
+0.35167659773338006 1
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 3
+0.35167659773338006 5
+0.35167659773338006 3
+0.35167659773338006 4
+0.35167659773338006 5
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 5
+0.35167659773338006 1
+0.35167659773338006 7
+0.35167659773338006 1
+0.35167659773338006 4
+0.35167659773338006 2
+0.35167659773338006 5
+0.35167659773338006 3
+0.35167659773338006 4
+0.35167659773338006 1
+0.35167659773338006 6
+0.35167659773338006 6
+0.35167659773338006 2
+0.35167659773338006 2
+0.35167659773338006 2
+0.35167659773338006 7
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 5
+0.35167659773338006 2
+0.35167659773338006 4
+0.35167659773338006 1
+0.35167659773338006 1
+0.35167659773338006 5
+0.35167659773338006 4
+0.35167659773338006 6
+0.35167659773338006 2
+0.35167659773338006 5
+0.35167659773338006 3
+0.35167659773338006 3
+0.35167659773338006 1
+0.35167659773338006 4
+0.35167659773338006 5
+0.35167659773338006 3
+0.35167659773338006 2
+0.35167659773338006 1
+0.35167659773338006 5
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 3
+0.35167659773338006 1
+0.35167659773338006 3
+0.35167659773338006 4
+0.35167659773338006 7
+0.35167659773338006 3
+0.35167659773338006 7
+0.35167659773338006 4
+0.35167659773338006 1
+0.35167659773338006 3
+0.35167659773338006 1
+0.35167659773338006 3
+0.35167659773338006 3
+0.35167659773338006 2
+=====================population==================
+0.35167659773338006 5
+0.352260778128286 8
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.35167659773338006 5
+0.0 0
+0.0 0
+0.35167659773338006 7
+0.0 0
+0.0 0
+0.35167659773338006 7
+0.0 0
+0.0 0
+0.35167659773338006 5
+0.0 0
+0.0 0
+0.35167659773338006 4
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.35167659773338006 5
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.35167659773338006 3
+0.35167659773338006 3
+0.0 0
+0.0 0
+0.35167659773338006 2
+0.35167659773338006 4
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.3480546792849632 8
+0.35167659773338006 3
+0.0 0
+0.0 0
+0.35167659773338006 4
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.35167659773338006 6
+0.35167659773338006 3
+0.35167659773338006 4
+0.0 0
+0.0 0
+0.35167659773338006 3
+0.35167659773338006 4
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.35167659773338006 5
+0.34279705573080965 4
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.35167659773338006 3
+0.35167659773338006 3
+0.35167659773338006 5
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.35167659773338006 4
+0.352260778128286 8
+0.35167659773338006 5
+0.35167659773338006 2
+0.35167659773338006 1
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.35167659773338006 3
+0.0 0
+0.0 0
+0.35167659773338006 4
+0.35167659773338006 1
+0.5075943451337773 3
+0.35167659773338006 4
+0.35167659773338006 2
+0.35167659773338006 7
+0.0 0
+0.0 0
+0.35167659773338006 4
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 4
+0.0 0
+0.0 0
+0.37965883864937494 5
+0.35167659773338006 4
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.35167659773338006 2
+0.0 0
+0.0 0
+0.35167659773338006 2
+0.35167659773338006 5
+0.0 0
+0.0 0
+0.35167659773338006 3
+0.35167659773338006 4
+0.35167659773338006 4
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.35167659773338006 1
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.35167659773338006 5
+0.0 0
+0.0 0
+0.35167659773338006 4
+0.35167659773338006 1
+0.35167659773338006 6
+0.0 0
+0.0 0
+0.35167659773338006 4
+0.0 0
+0.0 0
+0.35167659773338006 4
+0.35167659773338006 4
+0.0 0
+0.0 0
+0.0 0
+0.0 0
+0.35167659773338006 5
+0.3480546792849632 8
+0.0 0
+0.0 0
+0.35167659773338006 4
+0.35167659773338006 3
+0.0 0
+0.0 0
+0.35167659773338006 4
+0.35167659773338006 4
+0.35167659773338006 
